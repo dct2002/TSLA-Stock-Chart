@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dct2002/TSLA-Stock-Chart.git/static/css/main.97e1bd13.css",
+    "main.js": "/dct2002/TSLA-Stock-Chart.git/static/js/main.0b519706.js",
+    "index.html": "/dct2002/TSLA-Stock-Chart.git/index.html",
+    "main.97e1bd13.css.map": "/dct2002/TSLA-Stock-Chart.git/static/css/main.97e1bd13.css.map",
+    "main.0b519706.js.map": "/dct2002/TSLA-Stock-Chart.git/static/js/main.0b519706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e1bd13.css",
+    "static/js/main.0b519706.js"
+  ]
+}
